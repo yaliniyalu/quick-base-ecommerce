@@ -2,3 +2,7 @@
     font-size: 13px;
     color: #c1c1c1;
 }
+
+.category_no_sidebar_list .center-text h1, .category_no_sidebar_list .center-text li, .category_no_sidebar_list .center-text a {
+    color: #fff !important;
+}
